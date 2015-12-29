@@ -1,0 +1,8 @@
+name: wakefield_shiny
+account: tylerrinker
+server: shinyapps.io
+bundleId: 340372
+url: https://tylerrinker.shinyapps.io/wakefield_shiny
+when: 1451353717.3321
+asMultiple: FALSE
+asStatic: FALSE
